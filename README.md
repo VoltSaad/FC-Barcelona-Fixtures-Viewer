@@ -1,6 +1,6 @@
 # FC-Barcelona-Fixtures-Viewer
 
-This Python script fetches and displays FC Barcelona's upcoming match fixtures using the Football-Data.org API. It allows the user to select their time zone, and the fixtures are displayed in the selected local time.
+This Python script fetches and displays FC Barcelona's upcoming match fixtures using the Football-Data.org API. It allows the user to select their time zone, showing the fixtures in the selected local time.
 
 ## Features
 
@@ -43,10 +43,10 @@ python barcelona_fixtures.py
 
 ##User Input
 You will be prompted to select a continent and timezone.
-Enter your Football-Data API key when prompted.
+You can enter your Football-Data API key when prompted.
 The script will fetch and display FC Barcelona's upcoming fixtures in your local time zone.
 
-##Example
+## Example
 ```bash
 Select a continent to view its time zones:
 1. Africa
