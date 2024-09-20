@@ -21,7 +21,7 @@ You can install these packages using `pip`:
 
 ```bash
 pip install requests pytz pandas
-#
+```
 # FC Barcelona Fixtures Viewer
 
 This Python application fetches and displays FC Barcelona's match fixtures in your local timezone using the Football-Data.org API. It handles time zone conversions, filters matches by home/away status, and displays results grouped by competition.
@@ -35,9 +35,11 @@ This Python application fetches and displays FC Barcelona's match fixtures in yo
 1. **Clone this repository**:
    ```bash
    git clone https://github.com/your-username/FC-Barcelona-Fixtures-Viewer.git
+   ```
 ## Run The Python Script
 ```bash
 python barcelona_fixtures.py
+```
 
 ##User Input
 You will be prompted to select a continent and timezone.
